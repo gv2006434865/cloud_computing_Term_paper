@@ -4,3 +4,5 @@ cloud_computing_Term_paper
 組長：0524809 陳南岑
 
 組員：0524818 黃品芳、0524807 陳芊安
+
+資料集:https://www.kaggle.com/c/dogs-vs-cats
